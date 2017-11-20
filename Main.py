@@ -19,3 +19,6 @@ while x > 0:
 
 print("Your name is " + name.capitalize())
 
+print("")
+input("Press any key to exit")
+
